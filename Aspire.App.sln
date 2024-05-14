@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspire.App.Host", "Aspire.App\Aspire.App.Host\Aspire.App.Host.csproj", "{D6771F11-A343-498D-951C-D0E0BDE66533}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspire.App.Service", "Aspire.App\Aspire.App.Service\Aspire.App.Service.csproj", "{92D714CD-3589-461D-B96D-13D912528DCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6771F11-A343-498D-951C-D0E0BDE66533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6771F11-A343-498D-951C-D0E0BDE66533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6771F11-A343-498D-951C-D0E0BDE66533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6771F11-A343-498D-951C-D0E0BDE66533}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92D714CD-3589-461D-B96D-13D912528DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92D714CD-3589-461D-B96D-13D912528DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92D714CD-3589-461D-B96D-13D912528DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92D714CD-3589-461D-B96D-13D912528DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
